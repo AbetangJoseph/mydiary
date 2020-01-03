@@ -2,7 +2,6 @@ import createError from 'http-errors';
 import express from 'express';
 import cookieParser from 'cookie-parser';
 import logger from 'morgan';
-import './models/connection';
 import routes from './routes';
 import helmet from 'helmet';
 import cors from 'cors';

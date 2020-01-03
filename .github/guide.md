@@ -1,0 +1,1 @@
+## Guidelines for branch naming convention and pull request format for collaboration.
